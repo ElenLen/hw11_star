@@ -1,0 +1,46 @@
+.img {
+  width: 100px;
+}
+
+.list {
+  display: flex;
+}
+
+.list__blok {
+  margin: 20px;
+}
+
+#sale {
+  border-radius: 5px;
+  background-color: rgb(181, 181, 247);
+  margin: 20px;
+  padding: 10px;
+}
+#sale:hover {
+  background: gold;
+}
+
+#total {
+  font-size: 2rem;
+  color: blue;
+}
+
+.list__blok-price {
+  color: blue;
+}
+
+.main__title {
+  padding-left: 30px;
+  margin: 10px;
+}
+
+.main__price-list {
+  border: 2px solid;
+  padding: 10px;
+  margin: 10px;
+}
+
+#total {
+  padding-left: 30px;
+  margin: 10px;
+}
